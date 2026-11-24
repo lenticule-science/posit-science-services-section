@@ -1,0 +1,9 @@
+{
+  "name": "@lenticule-science/posit-science-services-section",
+  "description": "posit-science-services-section is a services section of the 561 Group.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lenticule-science/posit-science-services-section.git"
+  }
+}
